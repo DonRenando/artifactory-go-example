@@ -1,0 +1,4 @@
+0d6716c5b8b4c7eae427e9d76ca878bfe10f5d770d9e2d17ab3de196d776acfe  artifactory-go-example_v0.0.0-next_Linux_i386.tar.gz
+60fdcb9f2e8558573250fd0fc053c7b08966b88f5e7dba220912bf0a963f44d6  artifactory-go-example_v0.0.0-next_Linux_x86_64.tar.gz
+463a1cdca02efae109a86445d9c45c827196e0a1ecd8ed411f670750840ecad2  artifactory-go-example_v0.0.0-next_Darwin_i386.tar.gz
+ec169ab618ec506d95f003ba2d3983869f7a723c1b657f4244761feed5620e24  artifactory-go-example_v0.0.0-next_Darwin_x86_64.tar.gz
