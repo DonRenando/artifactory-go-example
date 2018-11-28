@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println(quote.Hello())
-	// test6
+	// test7
 }
